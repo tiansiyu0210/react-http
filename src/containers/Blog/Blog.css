@@ -15,6 +15,7 @@
 }
 
 .Posts a:hover,
-.Posts a:active {
+.Posts a:active,
+.Posts a.active {
     color: #fa923f;
 }
