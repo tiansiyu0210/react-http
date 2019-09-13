@@ -26,8 +26,8 @@ class NewPost extends Component {
             .then(response => {
                 // console.log(response);
                 // console.log("=======");
-                console.log(this.props);
-                //this.props.history.replace('/posts');
+               console.log(this.props);
+                //this.props.router.push('/posts');
                 //this.props.history.push('/posts');
                 //this.setState({submitted: true});
             })
