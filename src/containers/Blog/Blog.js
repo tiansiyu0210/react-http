@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 //import axios from 'axios';
 import axios from '../../axios';
 
-import NewPost from './NewPost/NewPost';
 import './Blog.css';
 import Posts from './Posts/Posts';
 import { Route, NavLink, Switch, Redirect } from 'react-router-dom';
